@@ -15,7 +15,6 @@ if sys.argv[-1] == "publish":
     sys.exit()
 
 required = [
-    'psycopg2',
     'sqlalchemy'
 ]
 
